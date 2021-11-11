@@ -6,7 +6,6 @@ When user enters a new note title and the note’s text then a Save icon appears
 When user click on an existing note in the list in the left-hand column, then that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
-```
 
 To see all these features working please visit: https://youtu.be/l7tem0q5rdU
 
