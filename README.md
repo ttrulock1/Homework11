@@ -37,3 +37,5 @@ Both URLS ARE SUBMITTED:
 + A YouTube video demonstrating my Note Taker.
 
 
+
+
